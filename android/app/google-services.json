@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "19916980484",
+    "project_id": "jolshiri-49197",
+    "storage_bucket": "jolshiri-49197.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19916980484:android:2ba5f5dc89eba31ba41051",
+        "android_client_info": {
+          "package_name": "com.example.jolshiri_smart_city"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19916980484-akdv93edjnrl8pf1m18hsfh4ddpvmkr8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jolshiri_smart_city",
+            "certificate_hash": "a951ef05ec3dc7b2aa8253b758c2490a55219a58"
+          }
+        },
+        {
+          "client_id": "19916980484-4urlol83sv2jffu7rt3fcrk33sch1dmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwJYSc-5QSZMBhfQlCcE2W0EOoJtPhG7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19916980484-4urlol83sv2jffu7rt3fcrk33sch1dmh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
