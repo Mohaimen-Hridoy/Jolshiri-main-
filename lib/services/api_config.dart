@@ -21,7 +21,7 @@ class ApiConfig {
   /// /viewing-requests/for-my-listings 404'd with "No route for GET ..."
   /// even though the route exists in this codebase — the deployed server
   /// just hadn't been updated with it yet.
-  static const String deployedBaseUrl = 'https://jolshiri-backend-production.up.railway.app';
+  static const String deployedBaseUrl = 'https://jolshiri-backend1.onrender.com';
 
   /// Only used for LOCAL development (deployedBaseUrl above is null).
   /// Change this if your local backend runs somewhere other than
